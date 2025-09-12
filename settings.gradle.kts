@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Material3 Expressive"
 include(":app")
- 
+include(":shared")
